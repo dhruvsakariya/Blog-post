@@ -8,7 +8,7 @@ isFeatured: true
 Next.js Introduction
 ====================
 
-*   Difficulty Level : [Easy](https://www.geeksforgeeks.org/easy/)
+*   Difficulty Level : Easy
 *   Last Updated : 03 Nov, 2021
 
 **Next.js** is a react based framework. It has powers to Develop beautiful Web application for different platform like Windows, Linux and mac. If you have little experience in react and looking forward to know more about react ecosystem then you should have knowledge about Next.js framework.  
