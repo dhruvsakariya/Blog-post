@@ -14,7 +14,7 @@ const Hero = () => {
           
         />
       </div>
-      <h1>Hi, I'm Dhruv</h1>
+      <h1>Hiii, I'm Dhruv</h1>
       <p>
         I blog about web development - especially frontend frameworks like
         React-Js and React-Native
